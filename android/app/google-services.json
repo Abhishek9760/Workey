@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901732963952",
+    "project_id": "workey-c0771",
+    "storage_bucket": "workey-c0771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901732963952:android:02364515899f1b224bc6b5",
+        "android_client_info": {
+          "package_name": "com.workey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901732963952-fgupd938eqpdpnltc5nq3kf0268g52d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5tb7h9QgK5ovpvJuAFZq83lIJzf-COU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901732963952-fgupd938eqpdpnltc5nq3kf0268g52d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
